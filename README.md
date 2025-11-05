@@ -24,7 +24,7 @@ All code builds on my original training project—new tasks appear as extra feat
 The full dataset is hosted on Google Drive due to size limitations.
 Download/access it here: https://drive.google.com/file/d/1dEDdTAEersFgdl_dNks2PdVeYm8EzPrE/view?usp=drivesdk
 
-Instructions for loading/preprocessing the dataset are included in the notebook. For questions, contact me at [your-email@example.com].
+Instructions for loading/preprocessing the dataset are included in the notebook. For questions, contact me at [kondetikishor@gmail.com].
 
 🚀 How to Run
 Recommended: Open Demo in Google Colab
